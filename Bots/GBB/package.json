@@ -1,0 +1,14 @@
+{
+  "name": "gbbot",
+  "version": "2.3.0",
+  "description": "A garlic bread bot",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Nate B",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.3.0"
+  }
+}

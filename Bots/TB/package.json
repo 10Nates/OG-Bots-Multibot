@@ -1,0 +1,15 @@
+{
+  "name": "thesaurusify_bot",
+  "version": "2.2.5",
+  "description": "yeah basically",
+  "main": "index.js",
+  "author": "Nate B",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.3.2",
+    "edit-json-file": "^1.1.0",
+    "moby": "1.1.2",
+    "remove-punctuation": "0.0.4",
+    "word-definition": "^2.1.6"
+  }
+}

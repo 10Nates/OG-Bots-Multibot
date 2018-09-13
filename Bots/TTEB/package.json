@@ -1,0 +1,14 @@
+{
+  "name": "text-to-emote_bot",
+  "version": "1.6.0",
+  "description": "Basically it",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Nate B",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.3.2"
+  }
+}
