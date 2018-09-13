@@ -1,0 +1,9 @@
+{
+  "name": "ogbots-multibot",
+  "version": "1.0.0",
+  "description": "yeah basically",
+  "main": "index.js",
+  "author": "Nate B",
+  "license": "ISC",
+  "dependencies": {}
+}
